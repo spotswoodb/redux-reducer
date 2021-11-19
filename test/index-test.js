@@ -1,6 +1,6 @@
-import { managePresents } from '../src/reducers/managePresents';
-import { manageFriends } from '../src/reducers/manageFriends';
-import sinon from 'sinon';
+// import { managePresents } from '../src/reducers/managePresents';
+// import { manageFriends } from '../src/reducers/manageFriends';
+// import sinon from 'sinon';
 
 describe('managePresents', () => {
 
